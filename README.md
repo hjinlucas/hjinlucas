@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hao(Lucas) Jin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Hao(Lucas) Jin</h1>
 
 - 🔭 I’m currently pursuing Master's degree in Computer Science at **Northeastern University**
 
