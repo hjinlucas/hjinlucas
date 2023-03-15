@@ -2,17 +2,18 @@
 
 - 🔭 I’m currently pursuing Master's degree in Computer Science at **Northeastern University**
 
-- 👯 I’m looking for internships for **software development engineer**
+- 👯 I’m looking for internships for **Software Engineer**
 
-- 👨‍💻 All of my projects are available at [sample.com](sample.com)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1BUDi9z6wXmd0NxkE1NJPxQDANIpKGtew/view?usp=sharing)
 
-- 📄 Know about my experiences [sample.com](sample.com)
+- 👨‍💻 All of my projects are available at [ePortfolio Site (Developing)](sample.com)
+
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/panicblues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panicblues" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/hao(lucas) jin](https://www.linkedin.com/in/lucas-jinhao/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hao(lucas) jin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-jinhao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hao(lucas) jin" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
