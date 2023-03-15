@@ -74,7 +74,25 @@
 </p>
 
 
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hjinlucas&show_icons=true&locale=en&layout=compact" alt="hjinlucas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hjinlucas&" alt="hjinlucas" /></p>
+<br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hjinlucas&show_icons=true&locale=en&layout=compact" alt="hjinlucas-top-langs" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjinlucas&show_icons=true&locale=en&count_private=true" alt="hjinlucas" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hjinlucas&count_private=true" alt="hjinlucas-streak" />
+</p>
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
