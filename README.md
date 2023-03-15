@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Hao(Lucas) Jin</h1>
 
-- 🔭 I’m currently pursuing Master's degree in Computer Science at **Northeastern University**
+- 🐾 I’m currently pursuing Master's degree in Computer Science at **Northeastern University**
 
 - 👯 I’m looking for internships for **Software Engineer**
 
