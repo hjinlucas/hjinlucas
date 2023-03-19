@@ -1,5 +1,5 @@
 async function generateStats() {
-  const { data: repos } = await axios.get(`https://api.github.com/users/${hjinlucas}/repos?per_page=1000`);
+  const { data: repos } = await axios.get(`https://api.github.com/users/hjinlucas/repos?per_page=1000`);
   const languageStats = await getLanguageStats();
   const totalStars = repos.reduce((acc, repo) => acc + repo.stargazers_count, 0);
 
