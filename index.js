@@ -1,5 +1,11 @@
+require('dotenv').config();
+
 async function generateStats() {
-  const { data: repos } = await axios.get(`https://api.github.com/users/hjinlucas/repos?per_page=1000`);
+    const { data: repos } = await axios.get(`https://api.github.com/users/hjinlucas/repos?per_page=1000`, {
+        headers: {
+          Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
+        },
+      });
   const languageStats = await getLanguageStats();
   const totalStars = repos.reduce((acc, repo) => acc + repo.stargazers_count, 0);
 
