@@ -84,11 +84,11 @@
 
 ## My GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=<hjinlucas>&show_icons=true&theme=radical)
 
 ## My Top Languages
 
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&langs_count=10&layout=compact&theme=radical&count_private=true&exclude_repo=<comma-separated-repo-names>&hide=<comma-separated-languages>&custom_title=My%20Top%20Languages)
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<hjinlucas>&langs_count=10&layout=compact&theme=radical&count_private=true&exclude_repo=<comma-separated-repo-names>&hide=<comma-separated-languages>&custom_title=My%20Top%20Languages)
 
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hjinlucas&count_private=true&layout=compact" alt="hjinlucas-top-langs" />
