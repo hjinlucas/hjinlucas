@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Hao(Lucas) Jin</h1>
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hao+Jin;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+  
 - 🐾 I’m currently pursuing Master's degree in Computer Science at **Northeastern University**
 
 - 👯 I’m looking for internships for **Software Engineer**
@@ -15,74 +15,29 @@
 <a href="https://www.linkedin.com/in/lucas-jinhao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hao(lucas) jin" height="30" width="40" /></a>
 </p>
 <p align="left">
-
-  <h3 align="left">Technical Skills & Tools</h3>
-  <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- Web -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
   
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-</a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Native" width="40" height="40"/>
-</a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  </a>
-  
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-
-</p>
-
-<br>
+  <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hjinlucas&count_private=true&layout=compact" alt="hjinlucas-top-langs" />
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hjinlucas&count_private=true" alt="hjinlucas-streak" />
+
+<br>
+
+|                         |Skills|
+|------------------------ | --------------------------------------------------------------------------------------------------- |
+|**Web Development**      | ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white) |
+|**Mobile Development**   | ![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white) ![React Native Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=React&logoColor=white) ![Swift Badge](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=white) |
+
+<br>
+
+|                         |Skills                                                                                             |
+|------------------------ | ------------------------------------------------------------------------------------------------- |
+|**Programming Languages**| ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) |
+|**Frameworks/ Libraries**| ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white) ![React Native Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=React&logoColor=white) |
+|**APIs**                 | ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white) |
+|**Containerization**     | ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) |
+|**Relational Databases** | ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) |
+|**NoSQL Databases**      |                                                                                                  |
+|**CI/ CD**               | ![Azure Badge](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=Microsoft-Azure&logoColor=white) |
+|**Version Control**     | ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white) |
+
+<br>
