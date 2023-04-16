@@ -1,8 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hao+Jin;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
-  
-- 🐾 I’m currently pursuing Master's degree in Computer Science at **Northeastern University**
-
-- 👯 I’m looking for internships for **Software Engineer**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1BUDi9z6wXmd0NxkE1NJPxQDANIpKGtew/view?usp=sharing)
 
