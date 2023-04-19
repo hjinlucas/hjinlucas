@@ -11,10 +11,6 @@
 </p>
 <p align="left">
   
-  <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hjinlucas&count_private=true&layout=compact" alt="hjinlucas-top-langs" />
-
-
 <br>
 
 |                         |Skills|
