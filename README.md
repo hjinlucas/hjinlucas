@@ -1,8 +1,4 @@
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1BUDi9z6wXmd0NxkE1NJPxQDANIpKGtew/view?usp=sharing)
-
-- 👨‍💻 All of my projects are available at [My Peronal Website](https://lucasjin.netlify.app)
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
